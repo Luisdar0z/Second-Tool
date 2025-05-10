@@ -1,3 +1,4 @@
+
 # Conversor de Segundos
 
 Aplicación de escritorio ligera que convierte:
@@ -7,6 +8,8 @@ Aplicación de escritorio ligera que convierte:
 - Genera múltiples valores aleatorios de segundos entre 1 y un máximo.
 
 La interfaz usa Flask + PyWebView para ejecutar un servidor local y mostrar una ventana nativa sin consola.
+
+![Screenshot](https://github.com/user-attachments/assets/6f048d7e-0145-454e-ba1d-7948ef39fc68)
 
 ---
 
