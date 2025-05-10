@@ -1,0 +1,24 @@
+body {
+  background-color: #f0f2f5;
+}
+
+.card {
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#result {
+  margin-top: 1rem;
+  font-weight: bold;
+  color: #333;
+}
+
+.text-danger {
+  color: #dc3545 !important;
+}
+
+#result, #resultToSeconds, #resultRandoms {
+  user-select: text;
+  -webkit-user-select: text;
+  cursor: text;
+}
